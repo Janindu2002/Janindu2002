@@ -36,8 +36,7 @@
 ## 📂 Featured Projects
 
 ### 🏑 Turf Management System
-A **web-based management system for hockey/sports turf facilities** that handles turf booking, scheduling, customer management, and payment tracking.  
-Designed to help turf owners **automate reservations, manage availability, and improve operational efficiency**.
+A **web-based management system for hockey/sports turf facilities** that handles turf booking, scheduling, customer management, and payment tracking. Designed to help turf owners **automate reservations, manage availability, and improve operational efficiency**.
 
 ### 📦 ERP Inventory Decision AI Agent
 AI-powered assistant designed to support **inventory management decisions within ERP systems**.
