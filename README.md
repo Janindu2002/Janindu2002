@@ -46,6 +46,7 @@ Automated system that monitors product prices and alerts when significant drops 
 
 ### 🎮 Tic Tac Toe Game
 C++ console application demonstrating **algorithmic thinking and problem solving**.
+
 ---
 
 ## 📈 What I Focus On
