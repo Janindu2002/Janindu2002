@@ -1,6 +1,6 @@
 # Hi 👋, I'm Janindu Dhananjaya
 
-🎓 IT Undergraduate | 📊 Business Analyst | 💡 Data & Process Optimization Enthusiast  
+🎓 MIT Undergraduate | 📊 Business Analyst | 💡 Data & Process Optimization Enthusiast  
 
 ---
 
